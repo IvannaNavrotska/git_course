@@ -10,5 +10,4 @@ def gcd (a,b):
         return gcd(b, a%b)
 
 print(f'here is gcd of those integers: {gcd(a,b)}')
-
-print('i do some experiments with Git')
+print(2+4)
