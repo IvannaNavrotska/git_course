@@ -10,5 +10,3 @@ def gcd (a,b):
         return gcd(b, a%b)
 
 print(f'here is gcd of those integers: {gcd(a,b)}')
-print(3+4)
-print('i love you. i just wanna say i love you')
