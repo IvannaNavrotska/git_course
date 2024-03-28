@@ -4,11 +4,8 @@ def fibonacci (f):
     else:
         return fibonacci(f-1) + fibonacci(f-2)
     
-print(fibonacci(5))
 print('this is for master')
-print(fibonacci(4+6))
+print(fibonacci(5))
 print('this is for dev')
-print(fibonacci(9-7))
-print('somethig went wrong, so new change for dev')
-print(fibonacci(0))
+print(fibonacci(7))
 
