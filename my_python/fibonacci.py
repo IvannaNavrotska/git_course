@@ -7,4 +7,6 @@ def fibonacci (f):
 print(fibonacci(5))
 print('this is for master')
 print(fibonacci(4+6))
+print('this is for dev')
+print(fibonacci(9-7))
 
