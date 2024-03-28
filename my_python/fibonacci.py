@@ -6,6 +6,4 @@ def fibonacci (f):
     
 print('this is for master')
 print(fibonacci(5))
-print('this is for dev')
-print(fibonacci(7))
 
