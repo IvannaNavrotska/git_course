@@ -5,4 +5,10 @@ def fibonacci (f):
         return fibonacci(f-1) + fibonacci(f-2)
     
 print(fibonacci(5))
-print('i just need to change something')
+print('this is for master')
+print(fibonacci(4+6))
+print('this is for dev')
+print(fibonacci(9-7))
+print('somethig went wrong, so new change for dev')
+print(fibonacci(0))
+
